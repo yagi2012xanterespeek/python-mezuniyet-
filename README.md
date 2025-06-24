@@ -1,0 +1,2 @@
+# İklim değişikliği mizah oluşturucusu
+Bu projemde iklim değişikliğine önem vermek istedim çünkü son zamanlarda insanlar sıkıcı broşürlerden bi farkındalık kazanmıyor ve bende bu sıkıcılığı mizahla eğlenceye dönüştürmek istedim python dili ile visiul studio code ile bir mizah uygulaması yaptım ve insanları bilinçlendirmeyi daha güzel ve daha eğlenceli hala getirdim bu uygulamayı kullandığınız için teşekkür ederim
